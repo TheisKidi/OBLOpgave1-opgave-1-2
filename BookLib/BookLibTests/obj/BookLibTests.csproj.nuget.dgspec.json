@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLibTests\\BookLibTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLibTests\\BookLibTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLibTests\\BookLibTests.csproj",
+        "projectName": "BookLibTests",
+        "projectPath": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLibTests\\BookLibTests.csproj",
+        "packagesPath": "C:\\Users\\Theis\\.nuget\\packages\\",
+        "outputPath": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLibTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Theis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\BookLib.csproj": {
+                "projectPath": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\BookLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\BookLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\BookLib.csproj",
+        "projectName": "BookLib",
+        "projectPath": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\BookLib.csproj",
+        "packagesPath": "C:\\Users\\Theis\\.nuget\\packages\\",
+        "outputPath": "D:\\Zealand\\3. semester\\Tech\\Projekts\\Obligatorisk opgave 1\\Opgave 1+2\\BookLib\\BookLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Theis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

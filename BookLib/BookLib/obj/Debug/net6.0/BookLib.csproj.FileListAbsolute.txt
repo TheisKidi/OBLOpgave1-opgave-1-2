@@ -1,0 +1,12 @@
+C:\Users\Theis\source\repos\BookLib\BookLib\bin\Debug\net6.0\BookLib.deps.json
+C:\Users\Theis\source\repos\BookLib\BookLib\bin\Debug\net6.0\BookLib.dll
+C:\Users\Theis\source\repos\BookLib\BookLib\bin\Debug\net6.0\BookLib.pdb
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.csproj.AssemblyReference.cache
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.AssemblyInfo.cs
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.dll
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\refint\BookLib.dll
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.pdb
+C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\ref\BookLib.dll
