@@ -10,3 +10,15 @@ C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.dll
 C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\refint\BookLib.dll
 C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\BookLib.pdb
 C:\Users\Theis\source\repos\BookLib\BookLib\obj\Debug\net6.0\ref\BookLib.dll
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\bin\Debug\net6.0\BookLib.deps.json
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\bin\Debug\net6.0\BookLib.dll
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\bin\Debug\net6.0\BookLib.pdb
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.csproj.AssemblyReference.cache
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.AssemblyInfoInputs.cache
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.AssemblyInfo.cs
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.csproj.CoreCompileInputs.cache
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.dll
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\refint\BookLib.dll
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\BookLib.pdb
+D:\Zealand\3. semester\Tech\Projekts\Obligatorisk opgave 1\Opgave 1+2\BookLib\BookLib\obj\Debug\net6.0\ref\BookLib.dll

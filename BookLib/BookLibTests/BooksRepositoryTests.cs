@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Reflection.Metadata.BlobBuilder;
 
 namespace BookLib.Tests
 {
@@ -23,11 +24,11 @@ namespace BookLib.Tests
         [TestMethod()]
         public void GetTestOk()
         {
-            List<Book> expectedValue = repo.Get();
+            int expectedCount = 5;
 
             List<Book> actual = repo.Get();
 
-            CollectionAssert.AreEqual(expectedValue, actual);
+            Assert.AreEqual(expectedCount, actual.Count);
         }
 
         [TestMethod()]

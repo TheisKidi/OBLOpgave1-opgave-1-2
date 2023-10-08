@@ -120,7 +120,5 @@ namespace BookLib.Tests
             Assert.AreEqual(expectedTitle, book.Title);
             Assert.AreEqual(expectedPrice, book.Price);
         }
-
-
     }
 }
